@@ -1,13 +1,13 @@
 {
     "name": "TgTwitterBot",
     "description": "Twitter-Control from Telegram.",
-    "repository": "https://github.com/bulanbintang69/TgTwitterBot",
+    "repository": "https://github.com/bulanbintang69/dari_tele_ke_twitter",
     "logo": "https://telegra.ph/file/845054582c76963620311.jpg",
     "keywords": ["telegram", "twitter", "tweepy", "telegram bot", "twiiter bot"],
     "env": {
         "BOT_TOKEN": {
             "description": "BOT TOKEN of your Bot. Get it from @BotFather.",
-            "value": ""
+            "value": "5087571809:AAGkuQsEWtqQyJ_Ch5uYn6ifDUDLqTdbCw4"
         },
         "API_ID": {
             "description": "Get it from https://my.telegram.org/apps ",
