@@ -1,3 +1,7 @@
+### Deploy on Heroku
+### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/udinpriangan)</br>
+
 # TgTwitterBot
 
 <p align="center"><img src="./logo.png", width="500"><br>
