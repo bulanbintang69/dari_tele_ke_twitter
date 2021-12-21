@@ -21,7 +21,7 @@ auth = tweepy.OAuthHandler(Var.CONSUMER_KEY, Var.CONSUMER_SECRET)
 auth.set_access_token(Var.ACCESS_TOKEN, Var.ACCESS_TOKEN_SECRET)
 api = tweepy.API(auth)
 
-REPO = "https://github.com/New-dev0/TgTwitterBot"
+REPO = "https://github.com/bulanbintang69/dari_tele_ke_twitter"
 TLOGO = "https://telegra.ph/file/845054582c76963620311.jpg"
 
 HELP_MARKUP = InlineKeyboardMarkup(
