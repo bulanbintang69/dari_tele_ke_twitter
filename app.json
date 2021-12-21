@@ -23,7 +23,7 @@
         },
         "HNDLR": {
             "description": "Command Handler to use. Default to '/'",
-            "value": "",
+            "value": "/",
             "required": false
         },
         "CONSUMER_KEY": {
