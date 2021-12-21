@@ -1,6 +1,6 @@
-### Deploy on Heroku
-### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/udinpriangan)</br>
+
+### Deploy on Heroku PAKE YANG INI AE
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/dari_tele_ke_twitter)</br>
 
 # TgTwitterBot
 
