@@ -11,15 +11,15 @@
         },
         "API_ID": {
             "description": "Get it from https://my.telegram.org/apps ",
-            "value": ""
+            "value": "7849221"
         },
         "API_HASH": {
             "description": "Get it from https://my.telegram.org/apps",
-            "value": ""
+            "value": "ef483846c6ad56e52008e9e569c4a3b8"
         },
         "AUTHUSERS": {
             "description": "User ids of user who can use your Bot Seperated by Space/Gap.",
-            "value": ""
+            "value": "1747137573 1900012138"
         },
         "HNDLR": {
             "description": "Command Handler to use. Default to '/'",
@@ -28,19 +28,19 @@
         },
         "CONSUMER_KEY": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": ""
+            "value": "eGEGGjiTvVivpTsvfgSyneJle"
         },
         "CONSUMER_SECRET": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": ""
+            "value": "zuxQAfds709PPg6vcghkwZCepn3nlyfjXMPRGqHRy2FTvwuSLp"
         },
         "ACCESS_TOKEN": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": ""
+            "value": "1427443084879532035-IjzmLaJ3b2V8WZTf4NhPnyYEaOBRfI"
         },
         "ACCESS_TOKEN_SECRET": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": ""
+            "value": "cg1vT9W8VwwUbfGR9IXsuPDd83Wd0FeNRkEVqisYfKWGy"
         }
     },
     "buildpacks": [{
