@@ -7,7 +7,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "BOT TOKEN of your Bot. Get it from @BotFather.",
-            "value": "5087571809:AAGkuQsEWtqQyJ_Ch5uYn6ifDUDLqTdbCw4"
+            "value": "5311379763:AAEUDNU5FYb0r2pdI5qE0sUsIYvZSEMsbpQ"
         },
         "API_ID": {
             "description": "Get it from https://my.telegram.org/apps ",
@@ -28,19 +28,19 @@
         },
         "CONSUMER_KEY": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "xVrqMJsh0cVcvcjaNrHte594r"
+            "value": "Edle8W1V9fHYrcXRHuJAj1Z9x"
         },
         "CONSUMER_SECRET": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "1542618288273776640-qJli1c0O3i3cImKBzo7ZdesdcR8P3H"
+            "value": "1542618288273776640-qDTUQF1qXt6BWe5rxWoE9LhUGO02RJ"
         },
         "ACCESS_TOKEN": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "1542618288273776640-qJli1c0O3i3cImKBzo7ZdesdcR8P3H"
+            "value": "zTaxQPUIoFFWlt0OYVzVuxvI3"
         },
         "ACCESS_TOKEN_SECRET": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "xVrqMJsh0cVcvcjaNrHte594r"
+            "value": "1542618288273776640-tgK93aAGnGjOavyfX6ma4VIPwunL2f"
         }
     },
     "buildpacks": [{
