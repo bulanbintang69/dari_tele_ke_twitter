@@ -28,19 +28,19 @@
         },
         "CONSUMER_KEY": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "eGEGGjiTvVivpTsvfgSyneJle"
+            "value": "xVrqMJsh0cVcvcjaNrHte594r"
         },
         "CONSUMER_SECRET": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "zuxQAfds709PPg6vcghkwZCepn3nlyfjXMPRGqHRy2FTvwuSLp"
+            "value": "1542618288273776640-qJli1c0O3i3cImKBzo7ZdesdcR8P3H"
         },
         "ACCESS_TOKEN": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "1427443084879532035-IjzmLaJ3b2V8WZTf4NhPnyYEaOBRfI"
+            "value": "1542618288273776640-qJli1c0O3i3cImKBzo7ZdesdcR8P3H"
         },
         "ACCESS_TOKEN_SECRET": {
             "description": "Read New-dev0.github.io/tgtwitterbot to Know About it.",
-            "value": "cg1vT9W8VwwUbfGR9IXsuPDd83Wd0FeNRkEVqisYfKWGy"
+            "value": "xVrqMJsh0cVcvcjaNrHte594r"
         }
     },
     "buildpacks": [{
