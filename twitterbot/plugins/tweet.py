@@ -11,9 +11,8 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
-@Bot.on_message(filters.private & filters.user(AUTH))
+@Client.on_message(filters.private & filters.user(AUTH))
 async def twitter(client, message):
-    await message.reply_text("Work on Progress...", quote=True)
     msg = message.reply_to_message
     MSG = "**Tweeted Successfully !!**"
     ca, dl = "", None
