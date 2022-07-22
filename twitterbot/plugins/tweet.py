@@ -11,7 +11,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 
-@Client.on_message(filters.command(".") & filters.user(AUTH))
+@Client.on_message(filters.command("t") & filters.user(AUTH))
 async def twitter(client, message):
     if not message.reply_to_message:
         return await message.reply_text("Reply to a Message !")
